@@ -1,0 +1,9 @@
+please install the following packages at first before running the program!!
+---
+list:
+
+streamlit
+pillow
+numpy
+plotly
+ultralytics
